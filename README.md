@@ -1,5 +1,5 @@
 # attentiongan_v2
-attentiongan_v2 tf 1 implemenation (original code : https://github.com/Ha0Tang/AttentionGAN)
+Simple implemenation (tensorflow 1.x) of AttentionGAN_v2 (original paper&code : https://github.com/Ha0Tang/AttentionGAN)
 
 ## Usage
 ~~~
